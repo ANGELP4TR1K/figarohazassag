@@ -1,0 +1,55 @@
+body{
+    background-color: #ffccaa;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+a{
+    color: #a04000;
+}
+
+.vorosmartykep{
+    width: 150px;
+    margin: 5px 20px;
+    float: left;
+}
+
+.figarokep{
+    width: 195px;
+    margin: 5px 20px;
+    float: right;
+}
+
+h1{
+    color: #a04000;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: justify;
+}
+
+.vastag{
+    font-weight: bold;
+}
+
+table{
+    width: 100%;
+}
+
+td>p{
+    margin: 0px;
+    padding: 0px;
+}
+
+.kozep{
+    text-align: center;
+}
+
+.jobb{
+    text-align: right;
+}
+
+.jobboszlop{
+    vertical-align: bottom;
+}
